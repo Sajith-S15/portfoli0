@@ -1,0 +1,61 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  font: 300 11px/1.4 'Helvetica Neue', sans-serif;
+  color: #444;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background: #3f1470; */
+  background-image: linear-gradient(to right, #2c3e50, #4ca1af);
+  background-image: linear-gradient(to right, #141e30, #243b55);
+
+
+  /* background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e); */
+
+  /* background-image: linear-gradient(to left, #434343 0%, black 100%); */
+
+  /* background-image: linear-gradient(to right, #fffbd5, #b20a2c); */
+
+  /* background-image: linear-gradient(to right, #8360c3, #2ebf91); */
+
+  /* background-image: linear-gradient(to right, #DECBA4, #3E5151); */
+
+  /* background-image: linear-gradient(to right, #5a3f37, #2c7744); */
+
+  /* background-image: linear-gradient(to right, #0099f7, #f11712); */
+
+  /* background-image: linear-gradient(to right, #2c3e50, #4ca1af); */
+
+  /* background-image: linear-gradient(to right, #141e30, #243b55); */
+
+  /* background-image: linear-gradient(to right, #ff9966, #ff5e62); */
+
+  /* background-image: linear-gradient(to right, #33001b, #ff0084);  */
+
+  /* background-image: linear-gradient(to right, #9796f0, #fbc7d4); */
+  /* background-image: linear-gradient(to right, #005aa7, #fffde4); */
+  /* background-image: linear-gradient(to right, #a8c0ff, #3f2b96); */
+
+
+
+
+
+
+
+  overflow: hidden;
+  display: block;
+}
+
+.dashboard {
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+@media screen and (max-width: 1200px) {
+  body {
+    overflow: visible;
+  }
+}
